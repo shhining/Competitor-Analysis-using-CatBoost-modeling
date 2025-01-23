@@ -8,3 +8,6 @@ household’s purchases, not just those from a limited number of
 categories. For certain households, demographic information as
 well as direct marketing contact history are included.
 
+# Contributor
+Hsueh-Ning Chao
+Da-Fung Lin
